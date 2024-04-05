@@ -22,12 +22,14 @@ Además, he trabajado en equipos multidisciplinarios, colaborando estrechamente 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | Muchas más...
 |---|---|---|---|
 
-### Otras Cuentas 📫
+### Otras Cuentas: 📫
 
-You can find and get touch with me on these accounts!
+<p>
+<a href="https://github.com/Macobsesion"><img src="https://img.shields.io/badge/-Macobsesion-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/marco-l-jimenez-092098300/"><img src="https://img.shields.io/badge/-Marco_Jimenez_Ferra-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:marcoljimenezcp@gmail.com"><img src="https://img.shields.io/badge/marcoljimenezcp@gmail.com-black?logo=gmail&style=flat-square"/></a>
+</p>
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | 
-|---|
 
 <!--
 **Macobsesion/Macobsesion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
