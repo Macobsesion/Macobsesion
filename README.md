@@ -1,8 +1,8 @@
-### Hola a todos 👋
-<div> <img src="https://el-site.mx/wp-content/uploads/2023/11/banner-web-new-1536x678.webp"> </div>
-Mi nombre es: 
-### Marco Alvaro Jiménez, llevo como programador más de 5 años de experiencia desarrollando y manteniendo sitios web utilizando HTML, CSS, JavaScript y frameworks como React y Angular. Tengo experiencia en diseño web, así como en la optimización del rendimiento de las páginas para una experiencia de usuario óptima. 
-Además, he trabajado en equipos multidisciplinarios, colaborando estrechamente con diseñadores y especialistas en marketing para lograr los objetivos del proyecto de manera eficiente y efectiva." ,  
+### Hola a todos, mi nombre es: Marco Alvaro Jiménez Ferra 👋
+<div> <img src="https://el-site.mx/wp-content/uploads/2023/11/banner-web-new-1536x678.webp" alt="site-mx"> </div>
+
+Soy de la Ciudad de México 🇲🇽 y tengo como programador más de 5 años de experiencia desarrollando y manteniendo sitios web utilizando HTML, CSS, JavaScript y frameworks como React y Angular. Tengo experiencia en diseño web, así como en la optimización del rendimiento de las páginas para una experiencia de usuario óptima. 
+Además, he trabajado en equipos multidisciplinarios, colaborando estrechamente con diseñadores y especialistas en marketing para lograr los objetivos del proyecto de manera eficiente y efectiva.
 ### Lenguajes de programación: 🌐
 
 - Conocimientos Sólidos:
@@ -32,7 +32,6 @@ Además, he trabajado en equipos multidisciplinarios, colaborando estrechamente 
 
 
 <!--
-**Macobsesion/Macobsesion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
